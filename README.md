@@ -5,7 +5,7 @@ The project uses the chromedriver.
 
 To use the project :   
 
-  1: Install the chrome driver according to google chrome version.   
+  1: Install the chromedriver according to your google chrome version.   
   
-  2: Install the selenium and the web manager  package of python.  
+  2: Install the selenium and the web manager modules in python.  
   
