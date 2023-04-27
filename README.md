@@ -1,5 +1,5 @@
 # WhatsApp_Spamming
-This is a python programme to spam messages on whatsapp using the selenium module.    
+This is a python programme to spam messages on whatsapp.    
 
 The project uses the chromedriver.    
 
