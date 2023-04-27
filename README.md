@@ -1,4 +1,4 @@
-# WhatsApp_Spamming
+# SpamIt
 This is a python programme to spam messages on whatsapp.    
 
 The project uses the chromedriver.    
